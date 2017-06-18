@@ -1,0 +1,15 @@
+.alarm-detail {
+    list-style: none;
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+
+    & > span {
+        padding: 0 15px;
+
+    }
+}
+
+h1, h1 + div {
+    margin-left: 50px;
+}
